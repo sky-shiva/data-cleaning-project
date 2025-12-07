@@ -62,3 +62,9 @@ After processing, the spend column becomes clean, numeric, and analysis-ready â€
 # why i have taken demo.ipynb and demo.csv
 
 see i have taken demos because to explain clearly about the replacing of correct values you can understand by seeing the code in demo.ipynb
+
+
+# step 4 is handling mixed booleans
+
+This is same like the prev one first we need to check any unique values and create a dictionary - > key pair values
+and use replace function by this the rows will become either True or False
