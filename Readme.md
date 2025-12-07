@@ -58,3 +58,7 @@ Example:
 "1234.56"  ➜  1234.56 (float)
 
 After processing, the spend column becomes clean, numeric, and analysis-ready — no currency symbols, no commas, just pure numbers.
+
+# why i have taken demo.ipynb and demo.csv
+
+see i have taken demos because to explain clearly about the replacing of correct values you can understand by seeing the code in demo.ipynb
