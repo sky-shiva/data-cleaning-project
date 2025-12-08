@@ -68,3 +68,5 @@ see i have taken demos because to explain clearly about the replacing of correct
 
 This is same like the prev one first we need to check any unique values and create a dictionary - > key pair values
 and use replace function by this the rows will become either True or False
+
+# step 5 feature extraction i am doing feature extraction here in simple if else condition you can do using regex
